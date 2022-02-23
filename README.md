@@ -1,10 +1,9 @@
 Fuse Contacts bindings [![Build Status](https://travis-ci.org/bolav/fuse-contacts.svg?branch=master)](https://travis-ci.org/bolav/fuse-contacts) ![Fuse Version](http://fuse-version.herokuapp.com/?repo=https://github.com/bolav/fuse-contacts)
 ======================
 
-Library to use contacts in [Fuse](http://www.fusetools.com/).
+Library to use contacts in [Fuse](http://www.fuseopen.com/).
 
-https://www.fusetools.com/community/forums/feature_requests/contacts_api
-
+https://forums.fusetools.com/t/contacts-api/4480
 Issues, feature request and pull request are welcomed.
 
 ## Installation
